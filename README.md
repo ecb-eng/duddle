@@ -1,4 +1,4 @@
-# duddle
+# Duddle
 ## Editor de texto para terminal
 
 ### Instalação da biblioteca ncurse
